@@ -9,4 +9,4 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jim112o" />
 </a>
 
-![](https://komarev.com/ghpvc/?username=jim112o&color=red)
+<!-- ![](https://komarev.com/ghpvc/?username=jim112o&color=red) ->
